@@ -1,7 +1,7 @@
 [project]
 name = "nfl-fantasy-draft-mcp"
 version = "0.1.0"
-description = "Add your description here"
+description = "MCP server for fantasy football draft board analysis"
 readme = "README.md"
 authors = [
     { name = "domchao", email = "d.chaopradith@gmail.com" }
